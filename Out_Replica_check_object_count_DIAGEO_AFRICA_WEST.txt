@@ -1,0 +1,14 @@
+ schema_name | object_type | object_count 
+-------------+-------------+--------------
+ tenopr      | index       |           18
+ tenopr      | sequence    |            4
+ tenopr      | table       |           14
+ tenopr_bkp  | table       |           14
+ terep       | table       |           73
+ terep_cstm  | index       |            2
+ terep_cstm  | sequence    |            2
+ terep_cstm  | table       |           12
+ terep_dirty | table       |           48
+ testg       | table       |           75
+(10 rows)
+
